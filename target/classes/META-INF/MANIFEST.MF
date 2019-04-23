@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SbSecurityJdbcThymeleaf
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: israel
+Implementation-Vendor-Id: org.o7planning
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SbSecurityJdbcThymeleaf
+Created-By: Maven Integration for Eclipse
+
